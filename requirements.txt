@@ -1,11 +1,5 @@
-python-telegram-bot==13.15heroku3
-alphabet_detector
-wget
+
 yt_dlp
 youtube_search
 youtube_search_python
-openai
-pyshorteners
-faker
-pyfiglet
 pip - 23.2.1

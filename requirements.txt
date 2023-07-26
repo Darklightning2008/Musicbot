@@ -1,4 +1,4 @@
-
+python-telegram-bot==13.7
 yt_dlp
 youtube_search
 youtube_search_python

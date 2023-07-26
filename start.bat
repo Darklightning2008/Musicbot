@@ -1,1 +1,2 @@
-py - music_bot.py
+
+python music_bot.py

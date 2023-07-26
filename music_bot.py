@@ -8,3 +8,6 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 TOKEN = '6228213035:AAG1oLG3aP4f3Axb_6tHuLERhffK9Uhbt6I'
 updater = Updater(TOKEN, use_context=True)
 dispatcher = updater.dispatcher
+
+updater.start_polling()
+updater.idle()

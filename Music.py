@@ -66,6 +66,7 @@ def main():
 
     # Run the bot until you press Ctrl-C
     updater.idle()
+updater.start_polling(poll_interval=1.0)
 
 if __name__ == '__main__':
     main()
